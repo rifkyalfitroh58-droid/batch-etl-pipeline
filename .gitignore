@@ -12,10 +12,16 @@ __pycache__/
 .coverage
 
 # Folder pipeline runtime
-logs/
-input/
-archive/
-quarantine/
+input/*
+archive/*
+quarantine/*
+logs/*
+
+# Kecualikan .gitkeep agar folder tetap muncul di GitHub
+!input/.gitkeep
+!archive/.gitkeep
+!quarantine/.gitkeep
+!logs/.gitkeep
 
 # VS Code
 .vscode/
