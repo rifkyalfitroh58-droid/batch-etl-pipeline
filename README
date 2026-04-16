@@ -99,7 +99,7 @@ batch-etl-pipeline/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/batch-etl-pipeline.git
+git clone https://github.com/rifkyalfitroh58-droid/batch-etl-pipeline.git
 cd batch-etl-pipeline
 ```
 
@@ -276,5 +276,5 @@ tests/test_transformer.py::test_original_dataframe_not_modified  PASSED
 ## 👤 Author
 
 **Nama Kamu**
-- GitHub: [@username](https://github.com/username)
-- LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)
+- GitHub: [rifkyalfitroh58-droid](https://github.com/rifkyalfitroh58-droid)
+- LinkedIn: [linkedin.com/in/Rifky Alfitroh](https://linkedin.com/in/Rifky Alfitroh)
