@@ -1,0 +1,30 @@
+# Environment variables - JANGAN pernah di-commit!
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pytest cache
+.pytest_cache/
+.coverage
+
+# Folder pipeline runtime
+logs/
+input/
+archive/
+quarantine/
+
+# VS Code
+.vscode/
+
+# Package install
+*.egg-info/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
